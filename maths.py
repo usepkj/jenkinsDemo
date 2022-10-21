@@ -8,7 +8,9 @@ for x in fruits:
     break
   print(x)
   
-i=0
+i=0,j=0
 while i<=100:
+  j=j+i
   i=i+1
 print("value of I IS ", i)
+print("value of j IS ", j)
