@@ -11,7 +11,7 @@ for x in fruits:
 i=0
 j=0
 while i<=100:
-  j+=1
+  j+=i
   i+=1
 print("value of I IS ", i)
 print("value of j IS ", j)
